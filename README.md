@@ -14,5 +14,5 @@ pip install requests
 
 Run the file using CMD, the program requires two arguments
 
-python engeto_project_3 <LINK> <name of the csv file>
-
+python engeto_project_3 | LINK | name of the csv file
+[example](https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103)
