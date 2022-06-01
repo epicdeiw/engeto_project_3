@@ -13,6 +13,6 @@ pip install requests
 ## How to run the project
 
 Run the file using CMD, the program requires two arguments
-'''python
+
 python engeto_project_3 <LINK> <name of the csv file>
-'''
+
